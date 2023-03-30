@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2023-01-31] [11:22:30]       4343              4343
